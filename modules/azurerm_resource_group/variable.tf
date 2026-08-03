@@ -1,0 +1,3 @@
+variable "araish-rg" {
+  
+}
